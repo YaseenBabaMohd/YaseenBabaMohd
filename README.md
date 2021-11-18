@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-YaseenBabaMohd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaseenbabamohammad/)](https://www.linkedin.com/in/yaseenbabamohammad/)
+[![Linkedin Badge](https://img.shields.io/badge/-Yaseen-Baba-Mohd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaseenbabamohammad/)](https://www.linkedin.com/in/yaseenbabamohammad/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
