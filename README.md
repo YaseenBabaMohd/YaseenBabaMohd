@@ -1,45 +1,83 @@
-### Hi Developers 👋
+### Hi Developers 👋  
 
+[![Linkedin Badge](https://img.shields.io/badge/-YaseenBaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaseenbabamohammad/)](https://www.linkedin.com/in/yaseenbabamohammad/)  
+[![Website Badge](https://img.shields.io/badge/Quora-YaseenBaba-red)](https://www.quora.com/profile/Yaseen-Baba-Mohd)  
+[![Website Badge](https://img.shields.io/badge/StackOverflow-YaseenBaba-yellow)](https://stackoverflow.com/cv/yaseenbabamohammad)  
 
-[![Linkedin Badge](https://img.shields.io/badge/-YaseenBaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaseenbabamohammad/)](https://www.linkedin.com/in/yaseenbabamohammad/)
-[![Website Badge](https://img.shields.io/badge/Quora-YaseenBaba-red)](https://www.quora.com/profile/Yaseen-Baba-Mohd)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-YaseenBaba-yellow)](https://stackoverflow.com/cv/yaseenbabamohammad)
+I'm **Yaseen Baba Mohammad**, a **Full Stack Developer** with over 3 years of expertise in designing and implementing robust, scalable solutions.  
 
-I'm
-Full Stack Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Bootstrap)
+---
 
-<!-- Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes) -->
+### Summary  
+- Experienced in back-end development using open-source technologies like **Java**, **Node.js**, **Spring Boot**, and **Restful APIs**.  
+- Skilled in integrating **front-end technologies** such as **React**, **Angular**, and **Bootstrap**.  
+- Adept at database management, CI/CD pipelines, and modern software engineering practices.  
 
+---
 
-![Visitor Count](https://profile-counter.glitch.me/YaseenBabaMohd/count.svg)
+### Skills  
+#### **Technical Skills**  
+- **Languages & Frameworks**: Java, J2EE, C/C++, HTML5, CSS, JavaScript, Angular, Spring Boot  
+- **Tools & Platforms**: Eclipse, Visual Studio Code, Jenkins (CI/CD), Git, JIRA, SVN  
+- **Databases**: MySQL, MongoDB, JDBC  
+- **Concepts**: Functional Programming, Data Structures, Multi-Threading, Design Patterns  
+- **Cloud & Server Administration**: Linux, AWS, GCP  
 
-<!-- <div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YaseenBabaMohd&column=7"/>
-  </a>
-</div> -->
+#### **Soft Skills**  
+Problem-solving, Team Collaboration, Adaptability, Critical Thinking, Attention to Detail  
 
-Languages and Tools: 
-<!-- 
-<img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=flat-square&logo=adobexd&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/> -->
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+---
 
-![](https://activity-graph.herokuapp.com/graph?username=YaseenBabaMohd&theme=react-dark&area=true)
-<!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience  
+#### **Software Engineer**  
+**Ivy Comptech**, Hyderabad, Telangana  
+*Sept 2021 – Present*  
+- Developed a state-based framework for gaming infrastructure, reducing bundle size by 40%.  
+- Implemented advanced design patterns, boosting efficiency and enhancing user experiences.  
+- Created an extensive **Kibana dashboard** to monitor game-specific data, leading to a 12% increase in active player count.  
+- Optimized database queries, cutting query execution time by 20%.  
+- Delivered seamless communication between back-end systems and clients through **Restful APIs**.  
 
-Here are some ideas to get you started:
+#### **Software Engineer Intern**  
+**Infosys Private Limited**, Mysore, Karnataka  
+*Feb 2021 – June 2021*  
+- Engineered a **Currency Exchange Rate Analysis platform**, enhancing data interpretation by 30%.  
+- Refactored critical components using Java 8, improving system response time by 15%.  
+- Integrated a chatbot for real-time customer support, boosting retention rates by 25%.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
+---
 
--->
+### Education  
+- **Bachelor of Technology**, Computer Science and Engineering (CGPA: 7.9)  
+Rajiv Gandhi University of Knowledge and Technologies, Basar (2017–2021)  
 
+- **Pre-University Course** (CGPA: 8.2)  
+Rajiv Gandhi University of Knowledge and Technologies, Basar (2015–2017)  
+
+- **SSC** (CGPA: 9.7)  
+Olive International Concept School (2015)  
+
+---
+
+### Projects  
+- **Hyperspectral Image Segmentation**  
+  - Improved data interpretation accuracy by 40% using **Auto-Encoders** and **Deep Learning**.  
+  - Demonstrated expertise in image processing and convolutional architectures.  
+
+- **YMT-DanceAcademy Management System**  
+  - Built using **Java-Swings** and **JDBC**, streamlining user registration and database processes by 20%.  
+
+---
+
+### Certifications  
+- Certified in **Java and Angular** by Edureka (2021).  
+- Internship completion at **Infosys** (2021).  
+
+---
+
+### Achievements  
+- Runner-Up at District Level Under-15 Intra Chess Championship (2015).  
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/YaseenBabaMohd/count.svg)  
